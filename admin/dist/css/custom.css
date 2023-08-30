@@ -1,0 +1,29 @@
+.form-horizontal .control-label {
+	text-align: right !important;
+}
+
+.form-horizontal .user-data-col {
+	padding-top: 7px;
+}
+
+.select2-container--default .select2-selection--single {
+	
+	border-radius: 0px !important;
+}	
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+	height:34px;
+}	
+
+.select2-container .select2-selection--single {
+	height: 34px;
+}	
+
+.dragable_labels {
+	margin:10px 0px 10px 0px;
+	padding: 5px 0px 5px 0px;
+}
+
+.branch_counter {
+	padding-bottom:50px;
+}.pb-15px{	padding-bottom: 15px;}.mt-15px{	margin-top: 15px;}.mb-15px{	margin-bottom: 15px;}
